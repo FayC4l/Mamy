@@ -23,4 +23,4 @@ Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à nous 
 
 ## Auteur
 
-Ce site a été créé par [Votre nom]. Pour plus d'informations ou pour toute question, veuillez me contacter à [Votre email].
+Ce site a été créé par [Tazibet faycal , Achour Abderrezak, Zahir Rania]. Pour plus d'informations ou pour toute question, veuillez me contacter à Email@Email.com.
